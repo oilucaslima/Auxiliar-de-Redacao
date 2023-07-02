@@ -182,7 +182,7 @@ A saída deve atender os seguintes critérios:
 <img src="imagens/dados.jpg">
 
 <h3><b>Tempo de execução</b></h3>
-47.8589 milisegundos.
+47.8589 milisegundos
 
 Para analisar o custo assistótico do Auxiliar de Redação implementado neste trabalho, verificar cada função e manipulação seria extremamente trabalhoso e impreciso, portanto definiu-se que a melhor forma de realizar essa análise seria observar a relação entre o número de linhas da entrada e o tempo de execução. Obteve-se como resultado a seguinte tabela:
 
